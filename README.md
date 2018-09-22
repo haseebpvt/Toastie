@@ -28,5 +28,7 @@ dependencies {
   `Toastie.show(getApplicationContext(), "Toast message here");`
 
 ## Other Info
+
 Class: https://git.io/fAdEO
+
 Audio file (Created using Audacity): https://git.io/fAdEL
