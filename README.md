@@ -19,7 +19,7 @@ It make a beep sound while showing Toast. I think it will be useful for debuggin
   
  ``` 
 dependencies {
-	        implementation 'com.github.haseebpvt:Toastie:3.0'
+	        implementation 'com.github.haseebpvt:Toastie:3.1'
 	}
  ```
  
